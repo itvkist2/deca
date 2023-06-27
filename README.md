@@ -21,7 +21,7 @@ The main features:
 ## Getting Started
 Clone the repo:
   ```bash
-  git clone https://github.com/YadiraF/DECA
+  git clone https://github.com/itvkist2/deca
   cd DECA
   ```  
 
